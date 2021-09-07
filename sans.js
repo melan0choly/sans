@@ -2,7 +2,7 @@ const discord = require ('discord.js');
 
 var client = new discord.Client();
 
-const token = "ODgxODgwNjU4MzU0NTE1OTc4.YSzRXQ.4rRTAuLfZoocaTOQX3raLdv4tv4";
+const token = "ODgxODgwNjU4MzU0NTE1OTc4.YSzRXQ.EBgq2yMz-CjQT9PrR4qi-aj99D0";
 
 client.on ("ready", () => {
     console.log ("sans 已啟動");
